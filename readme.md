@@ -11,7 +11,7 @@
 
 - 📄 **Afficher le contenu de crontab**  
     ```bash
-    cat /crontab
+    cat /etc/crontab
     ```
 
 ### 2) Créer une Tâche Planifiée
